@@ -90,7 +90,7 @@ In \eqref{seq:hfbad_b}, the breakage kernel $\beta(x,x')$, where $x\in$ interval
 
 # References
 
-[1] Our paper associated to this repository.
+[1] M. Busschaert, F. H. Vermeire, and S. Waldherr, "Modeling Cell Size Distribution with Heterogeneous Flux Balance Analysis," *arXiv*, 2023. Available online: https://arxiv.org/abs/2304.06631.
 
 [2] J. D. Orth, R. M. Fleming, and B. Ø. Palsson, “Reconstruction and use of microbial metabolic networks: the core *Escherichia coli* metabolic model as an educational guide,” *EcoSal plus*, vol. 4, no. 1, 2010.
 
