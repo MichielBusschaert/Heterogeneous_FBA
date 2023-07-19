@@ -83,7 +83,7 @@ A discretization of \eqref{eq:hfba} is given below. A cell size range is defined
         & 0 \leq n_i, \text{for all } i\in \{1,2,\ldots,N\}.
     \end{align}
 ```
-In \eqref{seq:hfbad_b}, the breakage kernel $\beta(x,x')$, where $x\in$ interval $i$ and $x'\in$ interval $j$, is discretized as $\beta_{i,j}$ with
+In (12b), the breakage kernel $\beta(x,x')$, where $x\in$ interval $i$ and $x'\in$ interval $j$, is discretized as $\beta_{i,j}$ with
 ```math
 \beta_{i,j} = \int_{x_i-\frac{\Delta x}{2}}^{\min\left(x_j,x_i+\frac{\Delta x}{2}\right)} \beta(\xi,x_j)d\xi.
 ```
